@@ -8,3 +8,7 @@ Eye Tracking Model for Cheating Detection 🎯👀
 ✅ Uses a pretrained Keras model (.keras) for cheating detection
 ✅ Self-learning: Retrains on collected data for better accuracy
 ✅ Supports CUDA acceleration (if available)
+
+
+Run this 
+pip install -r requirements.txt
